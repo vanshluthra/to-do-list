@@ -1,0 +1,41 @@
+body{
+    background-color: lightgray;
+}
+
+#heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    background-color: whitesmoke;
+}
+
+.delete-icon{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.delete-icon a{
+    color: red;
+    font-size: 30px;
+    padding-right: 15px;
+}
+
+.content{
+    display: inline-block;
+    max-width: 80%;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.badge{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+}
+
+.desc{
+    overflow-wrap: break-word;
+}
